@@ -1,5 +1,5 @@
-#ifndef AYA_H
-#define AYA_H
+#ifndef MONTY_H
+#define MONTY_H
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -71,4 +71,4 @@ void initializeHolder();
 
 extern holder_t holder;
 
-#endif /* AYA_H*/
+#endif /* MONTY_H*/
